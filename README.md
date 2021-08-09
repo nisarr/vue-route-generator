@@ -15,7 +15,12 @@ pages/
 ├── index.vue
 ├── users.vue
 └── users/
-    └── _id.vue
+    └── _id.vue
+    └── :id/
+        └── products.vue
+         or
+        └── products/
+           └── index.vue
 ```
 
 Then run the following script:
